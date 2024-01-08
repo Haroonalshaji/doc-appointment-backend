@@ -1,0 +1,16 @@
+{
+  "name": "doc-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "hrn",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"  
+  },
+  "description": "doc ",
+  "devDependencies": {}
+}
